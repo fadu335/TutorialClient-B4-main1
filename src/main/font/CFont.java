@@ -1,4 +1,4 @@
-package com.example.examplemod.font;
+package font;
 
 import net.minecraft.client.renderer.texture.DynamicTexture;
 import org.lwjgl.opengl.GL11;

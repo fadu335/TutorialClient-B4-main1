@@ -1,4 +1,4 @@
-package com.example.examplemod.font;
+package font;
 
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.renderer.texture.DynamicTexture;
